@@ -1,1 +1,6 @@
 Ce deuxi√me fichier contient encore plus de code important !!!
+
+
+Ceci est une fonction de calcul de l'age (mais elle a un bug!)
+
+
