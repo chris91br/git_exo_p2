@@ -1,1 +1,3 @@
-Ce fichier contient plein de code source important 
+Ce fichier contient plein de code source important
+
+Cette partie est du code source d'une fonction de tri d'une liste
